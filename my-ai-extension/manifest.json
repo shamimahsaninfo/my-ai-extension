@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Mobile AI Assistant",
+  "version": "1.0",
+  "description": "AI Assistant for Mobile browsers (Quetta/Kiwi) powered by Claude & Gemini",
+  "permissions": [
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
